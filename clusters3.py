@@ -4,7 +4,7 @@
 #   Department of Astronomy
 #   Case Western Reserve University
 
-http://burro.case.edu/JavaLab/
+#http://burro.case.edu/JavaLab/
 
 from tkinter import ttk # ComboBox control
 from tkinter import *   # All things GUI
